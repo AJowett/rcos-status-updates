@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
-> Researched tutorials and guides about creating an operating system. Got started with setting up a cross-compiler.
+> Started setting up a cross-compiler
 
 ## This Week's Plan
 
